@@ -1,0 +1,30 @@
+High level python 
+Mid level C++ 
+low level Assembly 
+
+
+Paradigms
+Object oriented Programming
+Functional Programming
+
+Static 
+Dynamic 
+
+
+Python - Dynamic
+easy to learn
+
+Data science 
+Machine Learning 
+Ai
+Deep Learning
+Computer Vision
+
+web backend django flask
+
+mobile 
+
+Automated tools
+
+ERP odoo;
+
