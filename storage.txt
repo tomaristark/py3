@@ -1,0 +1,47 @@
+
+#storage 
+#NAS storage
+#cloud storage
+
+#sql <- mysql sqlite
+row column
+name       age
+mg mg       15
+
+#nosql <- 
+key value
+name mgmg
+
+#file 
+#txt json xml 
+#key value
+
+#memory
+multi value
+#array []
+#List
+ordered
+changeable  
+ add remove 
+allow duplicate
+can index
+#Set {} 
+unordered 
+unchangeable 
+no add remove
+ no duplicate 
+ no indexing
+#Tuple () ordered
+ unchangeable
+  allow duplicate
+ add or remove 
+ indexing
+
+
+#index 
+List = [a,b,c,d]
+List =[0,1,2,3]
+List[1]= e
+
+
+

@@ -58,10 +58,26 @@ print(10 == 10)
 # if (true)
 # if ( false)
 
-c= int(input("Enter a first number"))
-d =int(input("Enter second num"))
+# c= int(input("Enter a first number"))
+# d =int(input("Enter second num"))
 
-operator = input("Enter The Operator")
-if(operator == '+'):
-    print(c + d)
+# operator = input("Enter The Operator")
+# if(operator == '+'):
+#    print(c + d)
+# elif(operator =='-'):
+#     if(c > d):
+#         print(c -d)
+#     elif(d>c):
+#         print(d-c)
+# elif(operator =='*'):
+#     print(c*d)
+# elif(operator=="/"):
+#     if(c > d):
+#         print(c /d)
+#     elif(d>c):
+#         print(d //c)
 
+#logical opt
+#and both true
+#or one true
+#not reverse
